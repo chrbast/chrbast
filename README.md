@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrbast
-- 👀 I’m interested in data, linux, BI, SSIS, SQL, SH
-- 🌱 I’m currently learning SSIS, SH
+- 👀 I’m interested in data, linux, BI, SSIS, T-SQL, SSH
+- 🌱 I’m currently learning SSIS, SSH, T-SQL
 - 📫 How to reach me ...
 
 <!---
